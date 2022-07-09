@@ -1,1 +1,3 @@
-# Odin-Project-Caesar-Cipher
+# Project: Caesar Cipher
+
+### [Guideline](https://www.theodinproject.com/lessons/ruby-caesar-cipher)
